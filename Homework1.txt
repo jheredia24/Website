@@ -1,0 +1,169 @@
+<p style="text-align:right"><span style="font-size:16px"><strong>Institution Review board</strong></span></p>
+
+<p style="text-align:right"><span style="font-size:16px"><strong>Delaware State University IRB Committee</strong></span></p>
+
+<hr />
+<p style="text-align:center"><span style="font-size:18px"><strong>FInal Study Report</strong></span></p>
+
+<p style="text-align:center">Date of this report&nbsp;<input maxlength="10" name="Date" required="required" size="12" type="text" value="MM/DD/YYYY" />&nbsp;Date approved by DSU-IRB&nbsp;<input maxlength="10" name="DATE" required="required" size="12" type="text" value="MM/DD/YYYY" /></p>
+
+<p><em>Please read the instructions for each submission carefully. DSU&rsquo;s IRB will not accept incomplete submissions. Incomplete submissions will be returned to the principal investigator.</em></p>
+
+<table align="center" border="1" cellpadding="1" cellspacing="1" style="height:250px; width:900px">
+	<thead>
+		<tr>
+			<th colspan="3" scope="col" style="text-align:left">ADMINISTRATIVE INFORMATION</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align:center">Project title:<input maxlength="20" name="title" size="8" type="text" /></td>
+			<td colspan="2" rowspan="1" style="text-align:center">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">Principle Investigator</td>
+			<td colspan="2" rowspan="1" style="text-align:center">Department&nbsp;&nbsp;<select name="Department"><option selected="selected" value=""></option><option value="Physics"></option><option selected="selected" value="">Physics</option></select></td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<p style="text-align:left">Co-Investagtors (list all):</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2" rowspan="1" style="text-align:center">
+			<p style="text-align:left">Division:</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">Phone&nbsp;<input maxlength="13" name="phone number" size="13" type="text" value="(xxx)xxx-xxxx" /></td>
+			<td style="text-align:center">Fax&nbsp;<input maxlength="12" name="fax number" size="12" type="text" /></td>
+			<td style="text-align:center">Email&nbsp;<input maxlength="25" name="emal" size="20" type="text" value=".com" /></td>
+		</tr>
+		<tr>
+			<td colspan="3">Contact person for this study&nbsp;(name/phone/fax/e-mail):</td>
+		</tr>
+		<tr>
+			<td colspan="3">
+			<p>Study personnel (list all &ndash; coordinators, data managers, etc.):</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3">Sponsor (if part of a funded research project):</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="1" cellspacing="1" style="height:250px; width:900px">
+	<thead>
+		<tr>
+			<th colspan="1" scope="col" style="text-align:left">ENROLLMENT INFORMATION</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Project Performance Period:&nbsp;<input maxlength="10" name="projectperformanceperiod" required="required" size="18" type="text" value="MM/DD/YYYY" /></td>
+		</tr>
+		<tr>
+			<td>
+			<p>A. The original estimated number of subjects/patients to participate (signed consent, including screen failures):&nbsp;</p>
+
+			<p style="text-align:center"><textarea cols="90" name="test" required="required" rows="5"></textarea></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<p style="text-align:left">B. The actual total number who completed the study:</p>
+
+			<p><textarea cols="90" rows="5"></textarea></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>C. The actual number dropped/withdrawn:</p>
+
+			<p style="text-align:center"><textarea cols="90" rows="5"></textarea></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="1" cellspacing="1" style="height:250px; width:900px">
+	<thead>
+		<tr>
+			<th colspan="1" scope="col" style="text-align:left">ADVERSE EVENTS/WITHDRAWAL FROM STUDY</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Since the last IRB review, has any subject suffered any serious adverse events or unanticipated problems involving risk to subjects or others? If yes, specify the number of events and describe briefly their nature and significance. Were these reported to the IRB, to a sponsor, to the FDA or to anyone else?</td>
+		</tr>
+		<tr>
+			<td>
+			<p>How many of the recruited subjects at this site complained about any aspect of the study since the initiation of this project?&nbsp;<input required="required" type="text" />&nbsp;How was the complaint resolved? <input required="required" type="text" /></p>
+
+			<p>Who did you contact about your complaint?&nbsp;<input required="required" type="text" /></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">
+			<p>Did you remove any subject from the study due to adverse reactions, noncompliance or other reasons? If yes, please provide a description of the medical problem or other circumstances for each subject who was terminated involuntarily.</p>
+
+			<p><textarea cols="70" rows="3"></textarea></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Did any subject voluntarily withdraw from the study for medical or non-medical reasons? If yes, please provide a description of any known reasons for those who withdrew.&nbsp;</p>
+
+			<p style="text-align:center"><textarea cols="70" rows="3"></textarea></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br />
+&nbsp;</p>
+
+<table align="center" border="1" cellpadding="1" cellspacing="1" style="height:50px; width:97.5%">
+	<tbody>
+		<tr>
+			<td><strong>STUDY RESULTS</strong></td>
+		</tr>
+		<tr>
+			<td>
+			<p>Summarize any results (preliminary or final) obtained in the study. Please state whether the results to date have been consistent with what you expected.&nbsp;</p>
+
+			<p style="text-align:center"><textarea cols="70" required="required" rows="3"></textarea></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="1" cellspacing="1" style="width:97.5%">
+	<tbody>
+		<tr>
+			<td><strong>INVESTIGATOR&rsquo;S ASSURANCE</strong></td>
+		</tr>
+		<tr>
+			<td>
+			<p>This progress report reflects the final/close-out status of the protocol.</p>
+
+			<p>Investigator&rsquo;s Signature: <input required="required" type="text" />&nbsp; Date:&nbsp;<input maxlength="10" required="required" type="text" value="MM/DD/YYYY" /></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
